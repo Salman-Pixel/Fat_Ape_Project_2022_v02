@@ -1,0 +1,2 @@
+# Fat_Ape_Project_2022_v02
+So, this is my most recent project with Design Bytes International, it took almost a week to make it fully responsive and live. I've used HTML, CSS and of course JavaScript for bring some life to the static pages. The project is basically a crypto NFT website names as "Fat Ape", where NFT lovers especially Ape lovers will buy tokens to make their way for a really special prizes like Lamborghini Hurricane etc. Let me know if you need any help regarding the project. WhatsApp: +92-3480583568
